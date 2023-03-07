@@ -53,6 +53,7 @@ function getRandomColor () {
 + Courses:
   + MyITSchool (Front-End developer)
   + JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)
+  + Udemy JAVASCRIPT + React
 ---
 
 ### English
