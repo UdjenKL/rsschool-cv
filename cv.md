@@ -13,15 +13,14 @@
 
 
 ## About Me
-                I live in Minsk. Since school age I have been interested in programming. He graduated from the
-                "Private Institute of Management and Entrepreneurship" with a degree in economics-manager. Received
-                a bachelor's and specialist's degree. Passed retraining at BSUIR ("Belarusian State University of
-                Informatics and Radioelectronics") with a degree in software engineer. 12/15/2022 Finished offline
-                courses on Frontend (JS, React, Redux). Now I continue to study this profession and improve my
-                knowledge base, including English, and try to develop in this direction. I am currently studying at
-                RS School.
-#### text
 
+    I live in Minsk. Since school age I have been interested in programming. He graduated from the
+    "Private Institute of Management and Entrepreneurship" with a degree in economics-manager. Received
+    a bachelor's and specialist's degree. Passed retraining at BSUIR ("Belarusian State University of
+    Informatics and Radioelectronics") with a degree in software engineer. 12/15/2022 Finished offline
+    courses on Frontend (JS, React, Redux). Now I continue to study this profession and improve my
+    knowledge base, including English, and try to develop in this direction. I am currently studying at
+    RS School.
 
 
 ## Skills
