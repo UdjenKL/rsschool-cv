@@ -32,8 +32,6 @@
 + React
 + WebPack
 
-
-
 ### Code Example
 ```
 function  changeColor (item) {
@@ -53,7 +51,6 @@ function getRandomColor () {
 
 ### Education
 
-
 + Belarusian State University of Informatics and Radioelectronics (software engineer)
 + Courses:
   + MyITSchool (Front-End developer)
@@ -66,4 +63,4 @@ function getRandomColor () {
 
 ### English
 
- + A2
+  + A2
