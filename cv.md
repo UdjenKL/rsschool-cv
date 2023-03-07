@@ -22,10 +22,10 @@
 
 + HTML
 + CSS/SASS
-+ JavaScript
++ JavaScript/TypeScript
 + Git
 + React
-
++ WebPack
 
 ---
 
